@@ -48,14 +48,14 @@ _Inicializa con "npm start" _
 
 ## Construido con 🛠️
 
-* [SASS](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [BOOTSTRAP](https://maven.apache.org/) - Manejador de dependencias
-* [JEST](https://rometools.github.io/rome/) - Usado para generar RSS
+* [SASS](https://sass-lang.com/) - Libreria scss utilizada
+* [NPM](https://www.npmjs.com/) - Manejador de dependencias
+* [BOOTSTRAP](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - Framework css
+* [JEST]() - Unit testings
 
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Lorenzo Lopez** - *FRONT END* - [lololopez200123](https://github.com/lololopez200123)
 * **Marcos Trejo** - *BACK END* - [marcostrejo](https://github.com/marcostrejo)
