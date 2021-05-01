@@ -175,7 +175,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url(../images/fondo3.jpg)!important;
+  background-image: url(../images/fondo3.jpg);
   
   /* Full height */
   height: 100%!important;
@@ -187,7 +187,7 @@ body, html {
   background-attachment:fixed!important }
 
 .bg-2 {/* The image used */
-  background-image: url(../images/fondo2sinborde.png)!important;
+  background-image: url(../images/fondo2sinborde.png);
   
   /* Full height */
   height: 100%!important;
