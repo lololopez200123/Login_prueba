@@ -58,7 +58,7 @@ _Inicializa con "npm start" _
 
 
 * **Lorenzo Lopez** - *FRONT END* - [lololopez200123](https://github.com/lololopez200123)
-* **Marcos Trejo** - *BACK END* - [marcostrejo](https://github.com/marcostrejo)
+* **Marcos Trejo** - *BACK END* - [marcos_trejo](https://github.com/marcos_trejo)
 
 
 ## Expresiones de Gratitud 🎁
